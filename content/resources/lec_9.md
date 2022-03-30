@@ -5,6 +5,7 @@ description: Lecture notes on economic development, the role of advanced countri
   the IMF, and the World Bank.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-167-economic-development-technical-capabilities-spring-2004/c222dc08b810d889eccc1979477057cc_lec_9.pdf
 file_type: application/pdf
+parent_uid: 21b756b3-18bb-3d15-a0a0-fdce2a9e3db8
 resourcetype: Document
 title: Lecture 9
 uid: c222dc08-b810-d889-eccc-1979477057cc
